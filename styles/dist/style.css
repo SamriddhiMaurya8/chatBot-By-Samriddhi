@@ -1,0 +1,8 @@
+body {
+  background: #000;
+}
+
+.navigation {
+  display: flex;
+  background-color: #000;
+}
